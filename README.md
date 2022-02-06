@@ -1,1 +1,1 @@
-# node-ts-basic-config
+# node-ts-basic-setup
